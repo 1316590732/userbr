@@ -88,6 +88,8 @@ The user moves the mouse over the element
  Just output the variable the userbr_list
 
 # AuthorTips
+author qq：1316590732
+
 If you make a profit through this plug-in, I hope you can give the author some reward support. Thank you.
 
  ![image]( https://github.com/1316590732/userbr/blob/main/images/wxqrcode.png)
