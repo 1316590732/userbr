@@ -1,3 +1,6 @@
+# support NPM 
+
+npm install userbr
 # userbr
 This is a web user behavior record plug-in
 
