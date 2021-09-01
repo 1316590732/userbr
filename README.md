@@ -2,7 +2,7 @@
 # support NPM 
 
 npm install userbr
-# userbr
+# userbr（User behavior record）
 This is a web user behavior record plug-in
 
 The final result is to generate a two-dimensional array
